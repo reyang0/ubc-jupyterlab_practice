@@ -1,0 +1,5 @@
+name: env7
+channels:
+  - conda-forge
+  - defaults
+prefix: /opt/miniconda3/envs/env7
